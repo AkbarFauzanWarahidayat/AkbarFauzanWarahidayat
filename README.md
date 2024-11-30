@@ -19,10 +19,6 @@ Welcome to my GitHub profile! I am a passionate Full-Stack Web Developer with a 
 - **Database**: MySQL
 - **Others**: Git, CI/CD
 
-## 📈 GitHub Stats
-
-![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkbarFauzanwarahidayat&show_icons=true&theme=radical)
-
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/akbar-fauzan-warahidayat-22001a210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
